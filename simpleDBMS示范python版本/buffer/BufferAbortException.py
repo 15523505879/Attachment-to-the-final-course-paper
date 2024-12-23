@@ -1,0 +1,2 @@
+class BufferAbortException(Exception):
+    pass
