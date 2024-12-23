@@ -1,0 +1,1 @@
+运行simpledb目录下的StartDB.py
