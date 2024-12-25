@@ -1,0 +1,2 @@
+[2024-12-19 14:51:47] TX 0 - CREATE: Table 'student' created with fields: ['id', 'name', 'age']
+[2024-12-19 14:51:47] TX 2 - INSERT: Record inserted into student: 1, '张三', 20
