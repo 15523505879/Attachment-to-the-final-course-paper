@@ -1,7 +1,7 @@
 import io
 import os
-from Page import Page
-from BlockID import BlockID
+from .Page import Page
+from .BlockID import BlockID
 
 
 class FileMgr:

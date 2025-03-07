@@ -1,4 +1,4 @@
-from SimpleDB import SimpleDB
+from simpledb.SimpleDB import SimpleDB
 from EmbeddedConnection import EmbeddedConnection
 
 

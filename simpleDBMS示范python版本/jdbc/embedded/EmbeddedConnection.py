@@ -1,4 +1,4 @@
-from Transaction import Transaction
+from tx.Transaction import Transaction
 from SimpleDB import SimpleDB
 
 
