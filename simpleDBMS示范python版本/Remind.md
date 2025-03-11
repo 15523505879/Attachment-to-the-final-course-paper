@@ -1,1 +1,2 @@
-运行simpledb目录下的StartDB.py
+运行simpledb目录下的StartDB.py，将主目录下的所有的有python文件的子目录标记为源代码根目录
+可参考一下图片
