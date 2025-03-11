@@ -1,7 +1,7 @@
-from jdbc.embedded.EmbeddedDriver import EmbeddedDriver
-from jdbc.embedded.EmbeddedStatement import EmbeddedStatement
-from jdbc.embedded.EmbeddedMetaData import EmbeddedMetaData
-from jdbc.embedded.EmbeddedResultSet import EmbeddedResultSet
+from EmbeddedDriver import EmbeddedDriver
+from EmbeddedStatement import EmbeddedStatement
+from EmbeddedMetaData import EmbeddedMetaData
+from EmbeddedResultSet import EmbeddedResultSet
 from sqlite3 import Error
 
 
